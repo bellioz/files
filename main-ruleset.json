@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "deepl.com",
+        "unsplash.com",
+        "mycdn.video",
+        "rutracker.cc",
+        "croxyproxy.com",
+        "docs.rw",
+        "sagernet.org",
+        "browserleaks.com",
+        "kino.pub",
+        "rutor.info",
+        "rutracker.org",
+        "log.rw",
+        "harpa.ai"
+      ]
+    }
+  ]
+}
