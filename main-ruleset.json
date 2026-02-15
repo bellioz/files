@@ -3,19 +3,19 @@
   "rules": [
     {
       "domain_suffix": [
-        "deepl.com",
-        "unsplash.com",
-        "mycdn.video",
-        "rutracker.cc",
-        "croxyproxy.com",
-        "docs.rw",
-        "sagernet.org",
         "browserleaks.com",
+        "croxyproxy.com",
+        "deepl.com",
+        "docs.rw",
+        "harpa.ai",
         "kino.pub",
-        "rutor.info",
-        "rutracker.org",
         "log.rw",
-        "harpa.ai"
+        "mycdn.video",
+        "rutor.info",
+        "rutracker.cc",
+        "rutracker.org",
+        "sagernet.org",
+        "unsplash.com"
       ]
     }
   ]
