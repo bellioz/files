@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "bimmer.work",
+        "browserleaks.com",
+        "car-part.com",
+        "ebaydesc.com",
+        "plc.auction",
+        "turnermotorsport.com"
+      ]
+    }
+  ]
+}
